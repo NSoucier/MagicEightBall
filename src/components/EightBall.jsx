@@ -41,6 +41,7 @@ const EightBall = () => {
                 giveResponse()
             }}>
                 <p className='msg-box'>{msg}</p>
+                <div className='center'></div>
             </div>
 
             <div className="button">

@@ -14,7 +14,6 @@
 }
 
 .eightBall {
-  background-color: black;
   width: 300px;
   height: 300px;
   border-radius: 50%;
@@ -22,10 +21,10 @@
 }
 
 .msg-box {
-  /* padding-top: 45%; */
-  /* background-color: white;
-  color: black; */
-  /* border-radius: 50%; */
   padding-top: 125px;
   font-weight: bold;
+}
+
+.center {
+  background-color: white;
 }
